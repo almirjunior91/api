@@ -1,0 +1,218 @@
+{
+  "continentes": [
+    {
+      "id": 1,
+      "nome": "África"
+    },
+    {
+      "id": 2,
+      "nome": "América"
+    },
+    {
+      "id": 3,
+      "nome": "Ásia"
+    },
+    {
+      "id": 4,
+      "nome": "Europa"
+    },
+    {
+      "id": 5,
+      "nome": "Oceania"
+    }
+  ],
+  "paises": [
+    {
+      "id": 1,
+      "nome": "Camarões",
+      "id_continente": 1,
+      "titulos": 0
+    },
+    {
+      "id": 2,
+      "nome": "Gana",
+      "id_continente": 1,
+      "titulos": 0
+    },
+    {
+      "id": 3,
+      "nome": "Marrocos",
+      "id_continente": 1,
+      "titulos": 0
+    },
+    {
+      "id": 4,
+      "nome": "Senegal",
+      "id_continente": 1,
+      "titulos": 0
+    },
+    {
+      "id": 5,
+      "nome": "Tunísia",
+      "id_continente": 1,
+      "titulos": 0
+    },
+    {
+      "id": 6,
+      "nome": "Argentina",
+      "id_continente": 2,
+      "titulos": 2
+    },
+    {
+      "id": 7,
+      "nome": "Brasil",
+      "id_continente": 2,
+      "titulos": 5
+    },
+    {
+      "id": 8,
+      "nome": "Canadá",
+      "id_continente": 2,
+      "titulos": 0
+    },
+    {
+      "id": 9,
+      "nome": "Costa Rica",
+      "id_continente": 2,
+      "titulos": 0
+    },
+    {
+      "id": 10,
+      "nome": "Equador",
+      "id_continente": 2,
+      "titulos": 0
+    },
+    {
+      "id": 11,
+      "nome": "Estados Unidos",
+      "id_continente": 2,
+      "titulos": 0
+    },
+    {
+      "id": 12,
+      "nome": "México",
+      "id_continente": 2,
+      "titulos": 0
+    },
+    {
+      "id": 13,
+      "nome": "Uruguai",
+      "id_continente": 2,
+      "titulos": 2
+    },
+    {
+      "id": 14,
+      "nome": "Arábia Saudita",
+      "id_continente": 3,
+      "titulos": 0
+    },
+    {
+      "id": 15,
+      "nome": "Catar",
+      "id_continente": 3,
+      "titulos": 0
+    },
+    {
+      "id": 16,
+      "nome": "Coreia do Sul",
+      "id_continente": 3,
+      "titulos": 0
+    },
+    {
+      "id": 17,
+      "nome": "Irã",
+      "id_continente": 3,
+      "titulos": 0
+    },
+    {
+      "id": 18,
+      "nome": "Japão",
+      "id_continente": 3,
+      "titulos": 0
+    },
+    {
+      "id": 19,
+      "nome": "Alemanha",
+      "id_continente": 4,
+      "titulos": 4
+    },
+    {
+      "id": 20,
+      "nome": "Bélgica",
+      "id_continente": 4,
+      "titulos": 0
+    },
+    {
+      "id": 21,
+      "nome": "Croácia",
+      "id_continente": 4,
+      "titulos": 0
+    },
+    {
+      "id": 22,
+      "nome": "Dinamarca",
+      "id_continente": 4,
+      "titulos": 0
+    },
+    {
+      "id": 23,
+      "nome": "Espanha",
+      "id_continente": 4,
+      "titulos": 1
+    },
+    {
+      "id": 24,
+      "nome": "França",
+      "id_continente": 4,
+      "titulos": 2
+    },
+    {
+      "id": 25,
+      "nome": "Holanda",
+      "id_continente": 4,
+      "titulos": 0
+    },
+    {
+      "id": 26,
+      "nome": "Inglaterra",
+      "id_continente": 4,
+      "titulos": 1
+    },
+    {
+      "id": 27,
+      "nome": "Sérvia",
+      "id_continente": 4,
+      "titulos": 0
+    },
+    {
+      "id": 28,
+      "nome": "Suiça",
+      "id_continente": 4,
+      "titulos": 0
+    },
+    {
+      "id": 29,
+      "nome": "País de Gales",
+      "id_continente": 4,
+      "titulos": 0
+    },
+    {
+      "id": 30,
+      "nome": "Polônia",
+      "id_continente": 4,
+      "titulos": 0
+    },
+    {
+      "id": 31,
+      "nome": "Portugal",
+      "id_continente": 4,
+      "titulos": 0
+    },
+    {
+      "id": 32,
+      "nome": "Austrália",
+      "id_continente": 5,
+      "titulos": 0
+    }
+  ]
+}
